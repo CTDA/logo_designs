@@ -13,5 +13,7 @@ Style Guide:
 
  1. Use the included font (Ikaros) for headings and Georgia for body text.
  2. Color schemes should be red, white, and black
+	 
+
     Red: #DB3726
     
