@@ -8,12 +8,19 @@ Usage:
     version does not fit.
     
     
+
 Style Guide:
-------------
+============
 
- 1. Use the included font (Ikaros) for headings and Georgia for body text.
- 2. Color schemes should be red, white, and black
-	 
+Fonts
+-----
+ **Ikaros:** headings
+ **Glacial Indifference:** sub headings and shorter blurbs of information
+ **Adamina:** body text
 
+Colors
+--------
     Red: #DB3726
+    White: #FFFFFF
+    Black: #000000
     
