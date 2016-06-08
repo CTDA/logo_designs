@@ -15,7 +15,9 @@ Style Guide:
 Fonts
 -----
  **Ikaros:** headings
+ 
  **Glacial Indifference:** sub headings and shorter blurbs of information
+ 
  **Adamina:** body text
 
 Colors
