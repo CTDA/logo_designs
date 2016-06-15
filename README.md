@@ -16,21 +16,3 @@ Logo Usage
     version does not fit.
     
     
-
-Style Guide
-============
-
-Fonts
------
- **Ikaros:** headings
- 
- **Glacial Indifference:** sub headings and shorter blurbs of information
- 
- **Adamina:** body text
-
-Colors
---------
-    Red: #DB3726     rgb(219,55,38)
-    White: #FFFFFF
-    Black: #000000
-    
